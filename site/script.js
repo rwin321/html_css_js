@@ -1,5 +1,5 @@
 
-let count = 0
+let count = document.querySelector('#counterValue').value
 function addCount (){
 	return function (){
 		return count++

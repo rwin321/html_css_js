@@ -1,9 +1,6 @@
+let click = 0
 
-let count = document.querySelector('#counterValue').value
-function addCount (){
-	return function (){
-		return count++
-	}
+const AddOne = () => {
+	click += 1
+	document.querySelector('#counterValue').innerHTML = click
 }
-
-let plusCount = addCount()

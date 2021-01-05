@@ -160,11 +160,11 @@ h6 {
       width: 45%;
     }
 
-    @media (max-width: 600px) {
+    @media all and (max-width: 600px) {
       .big-col,
       .m-col,
       .sm-col {
-        width: 95%;
+        width: 100%;
       }
     }
   }

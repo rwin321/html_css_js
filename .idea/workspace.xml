@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae6c6b29-a53a-406d-af9a-7839f9704176" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/index.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/photos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,11 +58,16 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/site" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Erlang External Tools" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Ervin\html_css_js_course\html_css_js\site" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,7 +80,8 @@
       <workItem from="1609175517868" duration="2584000" />
       <workItem from="1609185079294" duration="122000" />
       <workItem from="1609507327695" duration="1522000" />
-      <workItem from="1609780863583" duration="6631000" />
+      <workItem from="1609780863583" duration="7273000" />
+      <workItem from="1609843863242" duration="11418000" />
     </task>
     <servers />
   </component>

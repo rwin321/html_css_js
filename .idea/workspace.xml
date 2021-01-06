@@ -55,7 +55,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/site" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../react-rwin-1/1st-project/rwin_react" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Erlang External Tools" />
@@ -78,7 +78,9 @@
       <workItem from="1609185079294" duration="122000" />
       <workItem from="1609507327695" duration="1522000" />
       <workItem from="1609780863583" duration="7273000" />
-      <workItem from="1609843863242" duration="11824000" />
+      <workItem from="1609843863242" duration="12106000" />
+      <workItem from="1609882762385" duration="811000" />
+      <workItem from="1609951898536" duration="3338000" />
     </task>
     <servers />
   </component>
@@ -113,10 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="242" width="858" height="604" key="EditFileWatcherDialog/0.0.1920.1040/-1920.0.1280.680/1920.-11.1280.680@0.0.1920.1040" timestamp="1609784267187" />
-    <state x="686" y="239" key="FileChooserDialogImpl" timestamp="1609783913214">
+    <state x="686" y="239" key="FileChooserDialogImpl" timestamp="1609882972799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="686" y="239" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1280.680/1920.-11.1280.680@0.0.1920.1040" timestamp="1609783913214" />
+    <state x="686" y="239" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1280.680/1920.-11.1280.680@0.0.1920.1040" timestamp="1609882972799" />
     <state x="290" y="0" key="SettingsEditor" timestamp="1609784467399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
